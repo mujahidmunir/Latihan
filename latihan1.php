@@ -7,3 +7,5 @@ ga ngisi nanti bego
 mau diam aja berasa ga hidup
 
 test test
+
+halo apa kabar ?
